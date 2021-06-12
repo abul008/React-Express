@@ -1,0 +1,5 @@
+.homepageWrapper{
+    width: 84%;
+    display: flex;
+    flex-direction: column;
+}

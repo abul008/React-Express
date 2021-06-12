@@ -1,0 +1,90 @@
+.seachEngineWrapper{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 18%;
+}
+.searchEngineInput input{
+   width: 92%;
+   background-image: url("https://img.icons8.com/metro/452/search.png");
+}
+.searchEngineInput input:focus{
+    transition: 2s;
+    background: none;
+    border: solid 1px black;
+    letter-spacing: 3px;
+}
+.searchEngineInput{
+    width: 100%;
+}  
+.searchResault{
+    width: 50%;
+    background: green;
+}
+.text{}
+.searchResault{
+    position: absolute;
+    top: 169%;
+    width: 100%;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    max-height: 298px;
+    overflow: auto;
+    border-radius: 0px 0px 7px 8px;
+}
+.searchResault::-webkit-scrollbar {
+    width: 9px;
+    height: 8px;
+    
+  }
+  .searchResault::-webkit-scrollbar-thumb{
+      background: #ced0d4;
+      border-radius: 8px;
+  }
+  .searchResault::-webkit-scrollbar:hover{
+      /*box-shadow: 0px 2px 1px 2px #5a5d648a ;*/
+      width: 0px;
+      height: 8px;
+      background-color:#ced0d44f;
+  }
+.searchResault ul{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;    
+    line-height: 54px;
+
+}
+.searchResault ul li{
+    display: flex;
+    width: 100%;
+    padding-left: 6px;
+}
+.searchResault ul li:hover{
+    background: #2193b0;
+    background: linear-gradient(to top, #6dd5ed, #2193b0);
+    border-radius: 6px;
+    cursor: pointer;
+}
+.searchResault ul li a{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.searchResault ul li a:hover{
+    color: white;
+}
+.searchEngineMenImg{
+    width: 40px;
+    height: 40px;
+    background: green;
+    border-radius: 50%;
+    background: url("https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg");
+    background-size: cover;
+}

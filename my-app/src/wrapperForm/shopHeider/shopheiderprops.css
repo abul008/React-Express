@@ -1,0 +1,146 @@
+.shopWrapper{
+  width: 100%;
+  height: 36%;
+  display: flex;
+  flex-direction: column;
+}
+.shopCard{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.phoneShopCard{
+  width: 23%;
+  /* height: 100%; */
+  min-width: 222px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  left: 0px;
+  box-shadow: rgb(0 0 0 / 5%) 0px 0px 0px 1px;
+  background: white;
+  /* margin-bottom: 20px; */
+  transition: 1s;
+  padding: 16px 8px;
+  cursor: pointer;
+  display: flex;
+  
+}.phoneShopCard img{
+  width: 100%;
+}
+.phoneShopCard:hover{
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .25);
+  z-index: 1;
+}
+.phoneShopCard:hover > .navHome{
+  z-index: 2;
+}
+.phoneShopCard:hover form{
+  z-index: 0;
+}
+
+.phoneShopCard button{
+    position: relative;
+    background: #ff9900;
+    display: flex;
+    align-items: center;
+    color: black;
+    border-radius: 6px;
+    font-size: 22px;
+    justify-content: space-evenly;
+    font-feature-settings: ;
+    font-variant: initial;
+    box-shadow: 0px 0px 2px 0px;
+}
+.phoneShopCard button::after{
+    content: " ";
+    height: 14%;
+    position: absolute;
+    background: white;
+    color: white;
+    left: 0;
+    bottom: 0;
+    transition: width 0.8s linear;
+    width: 0px;
+}
+.phoneShopCard button:hover:after{
+  width: 100%;
+}
+.phoneShopCard button:hover{
+  background:rgb(82 175 255);
+  color: white;
+  transition: 0.8s;
+}
+.shopHeaderPropCantrol{
+  line-height: 12px;
+  display: flex;
+  flex-direction: column;
+  font-family: inherit;
+}
+.phoneShopCard a{
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.shopCardButtonCatnreol{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.shopCardButtonCatnreol svg{
+  font-size: 28px;
+}
+.shopCardBackground{
+  width: 100%;
+  height:286px;
+  overflow: hidden;
+  background-size: cover;
+  position: relative;
+}
+#ubdateButton{
+
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.phoneShopCard form{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: -25px;
+  padding: 0;
+  display: flex;
+  background: green;
+  background: #fe8c00;
+  background: linear-gradient(to right, #f83600, #fe8c00);
+  justify-content: center;
+  transition: 2s;
+} 
+.phoneShopCard form input{
+  width: 72%;
+  padding: 10px;
+  border-radius: 7px;
+
+}
+.formihamar{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  /* background: green; */
+}
+.formihamar:hover .phoneShopCard{
+    z-index: 0;
+    background: green;
+}

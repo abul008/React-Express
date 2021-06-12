@@ -1,0 +1,58 @@
+
+.carusel{
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.carusel ul{
+    display: flex;
+    width: 100%;
+    left: 101px;
+    /* transform: translateX(-110%); */
+}
+.carusel ul li{
+    width: 166px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+    content: counter(gallery-cell);
+    background: white;
+    cursor: pointer;
+}
+.carusel ul li a{
+    width: 224px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+}
+.carusel ul li img{
+    height: 50px;
+}
+.carusel ul li:hover{
+    background: rgb(92 92 92 / 70%);
+}
+.carusel ul li:hover img{
+    color: white;
+}
+.carusel .iconCarusel{
+    position: absolute;
+    background: white;
+    display: flex;
+    align-items: center;
+    height: 72px;
+    cursor: pointer;
+    
+}
+.caruselLeft{
+    left: -9px;
+    font-size: 53px;
+    top: 16px;
+}
+.caruselRight{
+    right: 0;
+    top: 16px;
+    font-size: 53px;
+}

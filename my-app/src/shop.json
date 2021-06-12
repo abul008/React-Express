@@ -1,0 +1,478 @@
+{
+
+"tablet":[
+    
+{
+    "id": "tablet1",
+    "name":"iPad Air Wi-Fi 64GB (2020) Space Grey",
+    "buy": 421900,
+    "cesh": "421900",
+    "Monthly": "Monthly 11,720AMD",
+    "src": "https://www.mobilecentre.am/img/prodpic/small/8797cf11d21c4c74c0aa1.png",
+    "ram": "2Gb",
+    "model": "iphone 8",
+    "Year" : "2017",
+    "operation_system": "iOs",
+    "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+    "weight": "148 g (5.22 oz)",
+    "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+    "memory":{
+        "a":"2GB","b":"256GB"
+    },
+    "url": {
+        "url": "https://www.mobilecentre.am/img/prodpic/100261.jpg ",
+        "url1": "https://www.mobilecentre.am/img/prodpic/100071.jpg ",
+        "url2": " https://www.mobilecentre.am/img/prodpic/100071.jpg"
+    }
+},
+{
+    "id": "tablet1",
+    "name":"iPad 10.2 Wi-Fi 128GB (2020) (Space Grey)",
+    "buy": 303900,
+    "cesh": "Cash 280,900AMD",
+    "Monthly": "Monthly 8,450AMD",
+    "src": "https://www.mobilecentre.am/img/prodpic/small/36328405a042a04469583.jpg",
+    "ram": "2Gb",
+    "model": "Ipad",
+    "Year" : "2017",
+    "operation_system": "iOs",
+    "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+    "weight": "148 g (5.22 oz)",
+    "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+    "memory":{
+        "a":"2GB","b":"256GB"
+    },
+    "url": {
+        "url": " ",
+        "url1": " ",
+        "url2": " "
+    }
+},
+{
+    "id": "tablet2",
+    "name":"iPad 10.2 Wi-Fi 32GB (2020) (Gold)",
+    "buy": 234900,
+    "cesh": "Cash 332,910AMD",
+    "Monthly": "Monthly 6,530AMD",
+    "src": "https://www.mobilecentre.am/img/prodpic/small/97531208f914da48d4f12.jpg",
+    "ram": "8Gb",
+    "model": "iphone 8 plus",
+    "Year" : "2019",
+    "operation_system": "iOs",
+    "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+    "weight": "148 g (5.22 oz)",
+    "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+    "memory":{
+        "a":"2GB","b":"256GB"
+    },
+    "url": {
+        "url": "https://www.mobilecentre.am/img/prodpic/100116.jpg",
+        "url1": "https://www.mobilecentre.am/img/prodpic/100338.jpg",
+        "url2": " https://www.mobilecentre.am/img/prodpic/100115.jpg"
+    }
+},
+{
+    "id": "tablet3",
+    "name":"iPad 10.2 Wi-Fi 32GB (2020) (Silver)",
+    "buy": 234900,
+    "cesh": "",
+    "Monthly": "Monthly 6,530AMD",
+    "ram": "2Gb",
+    "model": "Nokia ",
+    "Year" : "2017",
+    "operation_system": "Window",
+    "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+    "weight": "148 g (5.22 oz)",
+    "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+    "memory":{
+        "a":"2GB","b":"256GB"
+    },
+    "src": "https://www.mobilecentre.am/img/prodpic/101253.jpg",
+    "url" : {
+        "url": " ",
+        "url1": " ",
+        "url2": " "
+    }
+} ,
+{
+    "id": "tablet4",
+    "name":"Apple iPhone 8 Plus 256GB (Red)",
+    "buy": 400000,
+    "cesh": "Cash 395,910AMD",
+    "Monthly": "Monthly 12,220AMD",
+    "src": "https://www.mobilecentre.am/img/prodpic/small/101693.jpg",
+    "ram": "2Gb",
+    "model": "iphone 8 Plus",
+    "Year" : "2017",
+    "operation_system": "iOs",
+    "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+    "weight": "148 g (5.22 oz)",
+    "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+    "memory":{
+        "a":"2GB","b":"256GB"
+    },
+    "url": {
+        "url": " ",
+        "url1": " ",
+        "url2": " "
+    }
+},
+{
+    "id": "tablet5",
+    "name":"Apple iPhone 8 Plus 256GB (Red)",
+    "buy": 440000,
+    "cesh": "Cash 395,910AMD",
+    "Monthly": "Monthly 12,220AMD",
+    "src": "https://www.mobilecentre.am/img/prodpic/small/101693.jpg",
+    "ram": "2Gb",
+    "model": "iphone 8 Plus",
+    "Year" : "2017",
+    "operation_system": "iOs",
+    "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+    "weight": "148 g (5.22 oz)",
+    "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+    "memory":{
+        "a":"2GB","b":"256GB"
+    },
+    "url": {
+        "url": " ",
+        "url1": " ",
+        "url2": " "
+    }
+} 
+],
+"mobile":[
+    {
+        "id": "phone1",
+        "name":"Apple iPhone 8 256GB (Red)",
+        "buy": 378000,
+        "cesh": "Cash 341,910AMD",
+        "Monthly": "Monthly 10,560AMD",
+        "src": "https://www.mobilecentre.am/img/prodpic/small/101691.jpg",
+        "ram": "2Gb",
+        "model": "iphone 8",
+        "Year" : "2017",
+        "operation_system": "iOs",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "url": {
+            "url": "https://www.mobilecentre.am/img/prodpic/100261.jpg ",
+            "url1": "https://www.mobilecentre.am/img/prodpic/100071.jpg ",
+            "url2": " https://www.mobilecentre.am/img/prodpic/100071.jpg"
+        }
+    },
+    {
+        "id": "phone2",
+        "name":"Apple iPhone 8 Plus 256GB (Red)",
+        "buy": 439900,
+        "cesh": "Cash 395,910AMD",
+        "Monthly": "Monthly 12,220AMD",
+        "src": "https://www.mobilecentre.am/img/prodpic/small/101693.jpg",
+        "ram": "2Gb",
+        "model": "iphone 8 Plus",
+        "Year" : "2017",
+        "operation_system": "iOs",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "url": {
+            "url": " ",
+            "url1": " ",
+            "url2": " "
+        }
+    },
+    {
+        "id": "phone3",
+        "name":"Apple iPhone 8 Plus 64GB (Space Gray)",
+        "buy": 369900,
+        "cesh": "Cash 332,910AMD",
+        "Monthly": "Monthly 10,280AMD",
+        "src": "https://www.mobilecentre.am/img/prodpic/A-6872.jpg",
+        "ram": "2Gb",
+        "model": "iphone 8 plus",
+        "Year" : "2017",
+        "operation_system": "iOs",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "url": {
+            "url": "https://www.mobilecentre.am/img/prodpic/100116.jpg",
+            "url1": "https://www.mobilecentre.am/img/prodpic/100338.jpg",
+            "url2": " https://www.mobilecentre.am/img/prodpic/100115.jpg"
+        }
+    },
+    {
+        "id": "phone4",
+        "name":"NOKIA 1 (Red)",
+        "buy": 399000,
+        "cesh": "",
+        "Monthly": "Monthly 1,110AMD",
+        "ram": "2Gb",
+        "model": "Nokia ",
+        "Year" : "2017",
+        "operation_system": "Window",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "src": "https://www.mobilecentre.am/img/prodpic/101253.jpg",
+        "url" : {
+            "url": " ",
+            "url1": " ",
+            "url2": " "
+        }
+    } ,
+    {
+        "id": "phone2",
+        "name":"Apple iPhone 8 Plus 256GB (Red)",
+        "buy": 400000,
+        "cesh": "Cash 395,910AMD",
+        "Monthly": "Monthly 12,220AMD",
+        "src": "https://www.mobilecentre.am/img/prodpic/small/101693.jpg",
+        "ram": "2Gb",
+        "model": "iphone 8 Plus",
+        "Year" : "2017",
+        "operation_system": "iOs",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "url": {
+            "url": " ",
+            "url1": " ",
+            "url2": " "
+        }
+    },
+    {
+        "id": "phone2",
+        "name":"Apple iPhone 8 Plus 256GB (Red)",
+        "buy": 440000,
+        "cesh": "Cash 395,910AMD",
+        "Monthly": "Monthly 12,220AMD",
+        "src": "https://www.mobilecentre.am/img/prodpic/small/101693.jpg",
+        "ram": "2Gb",
+        "model": "iphone 8 Plus",
+        "Year" : "2017",
+        "operation_system": "iOs",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "url": {
+            "url": " ",
+            "url1": " ",
+            "url2": " "
+        }
+    } 
+
+],
+"watch":[
+    {
+        "id": "watch1",
+        "name":"Original Samsung Galaxy Watch 42 mm R810 (Rose Gold)",
+        "buy": 179900,
+        "cesh": "Cash 341,910AMD",
+        "Monthly": "Monthly 5,000AMD",
+        "src": "https://www.mobilecentre.am/img/prodpic/small/102712.jpg",
+        "ram": "2Gb",
+        "model": "iphone 8",
+        "Year" : "2017",
+        "operation_system": "iOs",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "url": {
+            "url": "https://www.mobilecentre.am/img/prodpic/100261.jpg ",
+            "url1": "https://www.mobilecentre.am/img/prodpic/100071.jpg ",
+            "url2": " https://www.mobilecentre.am/img/prodpic/100071.jpg"
+        }
+    },
+    {
+        "id": "watch2",
+        "name":"Original Samsung Galaxy Watch 42 mm R810 (Black)",
+        "buy": 179900,
+        "cesh": "",
+        "Monthly": "Monthly 5,000AMD",
+        "src": "https://www.mobilecentre.am/img/prodpic/small/102712.jpg",
+        "ram": "2Gb",
+        "model": "iphone 8 Plus",
+        "Year" : "2017",
+        "operation_system": "iOs",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "url": {
+            "url": " ",
+            "url1": " ",
+            "url2": " "
+        }
+    },
+    {
+        "id": "watch3",
+        "name":"Original Samsung Galaxy Watch 46 mm R800 (Black)",
+        "buy": 219900,
+        "cesh": "Cash 180,910AMD",
+        "Monthly": "Monthly 6,110AMD",
+        "src": "https://www.mobilecentre.am/img/prodpic/small/882a4ea24ab30f099fda1.png",
+        "ram": "2Gb",
+        "model": "iphone 8 plus",
+        "Year" : "2017",
+        "operation_system": "iOs",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "url": {
+            "url": "https://www.mobilecentre.am/img/prodpic/100116.jpg",
+            "url1": "https://www.mobilecentre.am/img/prodpic/100338.jpg",
+            "url2": " https://www.mobilecentre.am/img/prodpic/100115.jpg"
+        }
+    },
+    {
+        "id": "watch4",
+        "name":"NOKIA 1 (Red)",
+        "buy": 399000,
+        "cesh": "",
+        "Monthly": "Monthly 1,110AMD",
+        "ram": "2Gb",
+        "model": "Nokia ",
+        "Year" : "2017",
+        "operation_system": "Window",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "src": "https://www.mobilecentre.am/img/prodpic/small/9219eed692bda8880bda1.jpg",
+        "url" : {
+            "url": " ",
+            "url1": " ",
+            "url2": " "
+        }
+    } ,
+    {
+        "id": "watch5",
+        "name":"Apple iPhone 8 Plus 256GB (Red)",
+        "buy": 400000,
+        "cesh": "Cash 395,910AMD",
+        "Monthly": "Monthly 12,220AMD",
+        "src": "https://www.mobilecentre.am/img/prodpic/small/101693.jpg",
+        "ram": "2Gb",
+        "model": "iphone 8 Plus",
+        "Year" : "2017",
+        "operation_system": "iOs",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "url": {
+            "url": " ",
+            "url1": " ",
+            "url2": " "
+        }
+    },
+    {
+        "id": "watch6",
+        "name":"Apple iPhone 8 Plus 256GB (Red)",
+        "buy": 440000,
+        "cesh": "Cash 395,910AMD",
+        "Monthly": "Monthly 12,220AMD",
+        "src": "https://www.mobilecentre.am/img/prodpic/small/4dcac000a7537fbe90ee2.jpg",
+        "ram": "2Gb",
+        "model": "iphone 8 Plus",
+        "Year" : "2017",
+        "operation_system": "iOs",
+        "Type": "Retina HD display with 3D Touch, widescreen LCD Multi-Touch display with IPS technology",
+        "weight": "148 g (5.22 oz)",
+        "audio": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+        "memory":{
+            "a":"2GB","b":"256GB"
+        },
+        "url": {
+            "url": " ",
+            "url1": " ",
+            "url2": " "
+        }
+    } 
+],
+
+"texnika":[
+        {
+         "nameT":"PHONE",
+         "urlT":"https://www.mobilecentre.am/img/catpic/68eaae4fcc979f09c3f9Untitled-1.png",
+         "hreaf": "/home/techniquenav/phone"
+        },
+        {
+           "nameT":"TABLET",
+           "urlT":"https://www.mobilecentre.am/img/catpic/90aebd4a2670a8cbc987tablets.png",
+           "hreaf":"/home/techniquenav/tablet"
+        },
+        { 
+           "nameT": "WATCH",
+           "urlT":"https://www.mobilecentre.am/img/catpic/08d9f44910f5c95028ffwatches.png" ,
+           "hreaf":"/home/techniquenav/watch"
+        },
+        {
+          "nameT":"TV",
+          "urlT":"https://www.mobilecentre.am/img/catpic/10e5eda91136536a8e1etvs.png",
+          "hreaf":"/home/techniquenav/tv"
+        },
+        {
+            "nameT":"COMPUTERS",
+            "urlT":"https://www.mobilecentre.am/img/catpic/c75b99a7168502653c33pcs.png",
+            "hreaf":"/home/techniquenav/computer"
+        },
+        {
+            "nameT":"ACCESORIES",
+            "urlT": "https://www.mobilecentre.am/img/catpic/ffa45211971010963ea4access.png",
+            "hreaf": "/home/techniquenav/accesories",
+            "hoveracses":{
+
+            }
+        },
+        {
+            "nameT":"EQUIPMENTS",
+            "urlT":"https://www.mobilecentre.am/img/catpic/0bb55ed4ae21a59162adequipments.png",
+            "hreaf":"/home/techniquenav/equipments"
+        },
+        {
+            "nameT":"PHOTO CAMERAS",
+            "urlT":"https://www.mobilecentre.am/img/catpic/9d77bdbd42aad3de4929photoCameras.png",
+            "hreaf":"/home/techniquenav/photocameras"
+        },
+        {
+            "nameT":"Household Appliances",
+            "urlT":"https://www.mobilecentre.am/img/catpic/9e54b7293c2ab166375bhousehold.png",
+            "hreaf":"/home/techniquenav/household"
+        }
+ 
+]
+
+}

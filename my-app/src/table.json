@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Anna",
+        "university":"YSU",
+        "age":"23",
+        "index":"1"
+    },
+    {
+        "name":"Anri",
+        "university":"Lomonosov",
+        "age":"25",
+        "index":"2"
+    },
+    {
+        "name":"Anush",
+        "university":"Slavonakan",
+        "age":"28",
+        "index":"3"
+    },
+    {
+        "name":"Edgar",
+        "university":"Harvard",
+        "age":"20",
+        "index": "4"
+    }
+]

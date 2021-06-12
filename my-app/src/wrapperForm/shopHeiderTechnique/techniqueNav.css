@@ -1,0 +1,12 @@
+.CaruselCantrol{
+   position: relative;
+}
+.CaruselImg{
+
+}
+
+.caruselManu{
+  position: absolute;
+  width: 100%;
+  bottom: 0%;
+}

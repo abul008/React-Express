@@ -1,0 +1,59 @@
+.profileCantrol{
+    display: flex;
+    flex-direction: column;
+}
+.profileCantrol .profileTop{
+    display: flex;
+    flex-direction: column;
+}
+.profileCantrol .profileGallery{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.profileCantrol .profileNavAbout{
+    display: flex;
+    border-top: solid 1px black;
+    width: 95%;
+}
+.profileCantrol .profileImg{
+    width: 136px;
+    height: 136px;
+    border-radius: 50%;
+    background-image: url("https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg");
+    background-size: cover;
+}
+.profileNav{
+    width: 50%;
+}
+.profileNav ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ProfileUbdate{
+   width: 50%;
+   
+}
+.paginationWrapper{
+    width: 100%;
+    justify-content: center;
+    background: white;
+    align-items: center;
+    display: flex;
+}
+.paginationWrapper ul{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+.paginationWrapper ul li a{
+   padding-left: 10px;
+   cursor: pointer;
+}
+.paginationWrapper ul li a:hover{
+    color: blue;
+}
+.paginationWrapper ul li a:active{
+    color: brown;
+}

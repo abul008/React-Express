@@ -1,0 +1,238 @@
+.CounterAdd{
+    width: 58px;
+    height: 58px;
+}
+.CounterAdd img{
+  width: 100%;
+  height: 100%;
+}
+.counterDiv{
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.counterDiv p{
+    position: absolute;
+    top: -23px;
+    left: 30px;
+    font-size: 22px;
+    background: red;
+    width: 23px;
+    height: 31px;
+    color: white;
+    border-radius: 30%;
+}
+.NavCenter{
+  display: flex;
+  justify-content: space-between;
+  width: 92%;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.NavCenter .singInnavSearch{
+  display: flex;
+  align-items: center;
+}
+.NavCenter input{
+  margin: auto;
+}
+.navIcon{
+  width: 20%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 70px;
+}
+.navIcon ul{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  height: 100%;
+}
+.navIcon  li{
+  height: 100%;
+  width: 25%;
+  min-width: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navIcon  li a{
+  font-size: 34px;
+  position: relative;
+  color: black;
+  transition: 1.5s;
+  transform: rotate(0deg);
+}
+.navIcon li:hover{
+  background: #2193b0;  
+  background: -webkit-linear-gradient(to top, #6dd5ed, #2193b0);  
+  background: linear-gradient(to top, #6dd5ed, #2193b0); 
+}
+.navIcon li:hover a{
+  transform: rotate(360deg);
+}
+.navIcon li span{
+  position: absolute;
+  left: 10px;
+  top: 5px;
+  color: white;
+  font-size: 25px;
+}
+.navIcon .navI1{
+ display: none;
+}
+.MenName{
+  display: flex;
+  width: 100%;
+  height: 37%;
+  align-items: center;
+  justify-content: space-around;
+}
+.MenName span{
+  width: 32%;
+  background: white;
+  height: 100%;
+  border-radius: 42%;
+  background-image: url("https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg");
+  background-size: cover;
+}
+.thisProfileInfo{
+  position: absolute;
+  background: #2193b0;  
+  background: -webkit-linear-gradient(to bottom, #6dd5ed, #2193b0);  
+  background: linear-gradient(to bottom, #6dd5ed, #2193b0);  
+  top: 70px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  width: 24%;
+  right: 0px;
+  min-width: 325px;
+  border-radius: 0px 0px 8px 8px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.thisProfileInfoCantrol{
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin-top: 18px;
+  line-height: 55px;
+}
+.thisProfile{
+    display: flex;
+    width: 30%;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+   
+  
+}
+.thisProfile:hover{
+  background: #2193b0;  
+  background: -webkit-linear-gradient(to top, #6dd5ed, #2193b0);  
+  background: linear-gradient(to top, #6dd5ed, #2193b0); 
+}
+.ThisProfileNav{
+  display: flex;
+  flex-direction: column;
+
+}
+.MenNameNav{
+   display: flex;
+   width: 100%;
+   align-items: center;
+   display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #000000;
+}
+.MenNameNav span{
+  background-image: url("https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg");
+  background-image: url(https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg);
+  width: 22%;
+  
+  background-size: cover;
+  border-radius: 50%; 
+  height: 56px; 
+} 
+#thisImg{
+  transition: 1s;
+}
+#thisImg:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+}
+.MenNameNav a:hover{
+  color: white;
+  cursor: pointer;
+}
+.thisProfileUl{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding-bottom: 16px;
+  transition: 1s;
+}
+.thisProfileUl svg{
+  transform: rotate(90deg);
+}
+.thisProfileUl a{
+  font-size: 22px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  border-radius: 10px;
+  cursor: pointer;
+  border-radius: 15px;
+  
+}
+.thisProfileUl #profileSet::before , #preofileSet1::before{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  mix-blend-mode: hue;
+  width: 40%;
+  height: 50%;
+  background: white;
+  text-align: center;
+  border-radius: 10px;
+  transition: 1s;
+}
+#profileSet:hover::before{
+  width: 100%;
+  height: 100%;
+  
+}
+#profileSet:hover .thisProfileSettings{
+  color: white;
+}
+#profileSet:hover .too{
+   color: white;
+}
+#preofileSet1:hover::before{
+  width: 100%;
+  height: 100%;
+}
+#profileSet a:hover{
+  color: white;
+}
+#preofileSet1 a:hover{
+  color: white;
+}
+
+.thisProfileSettings{
+    width: 74%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.thisProfile .too{width: 40%;}
+.thisProfileUl a span{
+  display: flex;
+  align-items: center;
+}
